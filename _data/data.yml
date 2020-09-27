@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Clark Tozer
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: https://avatars1.githubusercontent.com/u/9270883?s=460&u=78884ea6708df4e378630f19eb6cd5296c25b6eb&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: clarkwtozer@gmail.com
@@ -37,42 +37,30 @@ education:
       time: 2009 - 2011
       details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Aug 2018 - Present
+      company: Sope Web Technologies, Melbourne, AU
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Rebuilt an intranet in a box solution from the ground up to provide a single source of truth for policies and procedures with compliance analytics and subscription management.
+          - Technologies used: JavaScript (TypeScript, React, Redux, Node, TypeStyle), C#, Azure, Microsoft 365, SASS, Entity Framework, .NET Web API, gulp, webpack, git, JIRA, Kanban.
+    - role: Senior Software Engineer
+      time: Nov 2014 - Jun 2018
+      company: Sysdoc, London, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Project-based consultancy seeing the full development life-cycle from gathering requirements to implementation and deployment.
+          - I worked on delivering solutions for incident management, risk reporting, knowledge management, and a self certification tool.
+          - Technologies used: JavaScript (TypeScript, React, Redux, Angular, Can, Node), C#, Azure, Microsoft 365, Entity Framework, SASS, LESS, gulp, webpack, git, JIRA, Kanban.
+    - role: Software Engineer
+      time: Nov 2012 - Apr 2014
+      company: Telogis (Verizon Connect), Christchurch, NZ
+      details: |
+          - I worked on 'Telogis Fleet', a vehicle tracking SaaS platform, delivering the modernisation of dashboards and reporting by producing an analytics portal visually enhancing metrics from each vehicles computer.
+          - Technologies used: JavaScript (Ext, Knockout, jQuery), C#, LESS, PostgreSQL, Mercurial, FogBugz, Kanban.+
+    - role: Software Engineer
+      time: Feb 2012 - Oct 2012
+      company: Cortexo, Christchurch, NZ
+      details: |
+          - Delivered new features for Cortexo's energy management platform. These included viewing household energy output and managing customers devices.
+          - Technologies used: Java, JavaScript (jQuery), JSP, Swing, CSS, MySQL, FitNesse, FEST, Selenium, git, Scrum.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
