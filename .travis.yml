@@ -1,4 +1,0 @@
-deploy:
-  provider: pages:git
-  edge: true
-  token: $GITHUB_TOKEN
