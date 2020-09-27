@@ -1,11 +1,16 @@
 language: node_js
 node_js: stable
 
+cache:
+  directories:
+    - node_modules
+
 deploy:
   provider: pages
   skip_cleanup: true
   edge: true
   github_token: $GITHUB_TOKEN
-  local_dir: dist
+  keep_history: true
+  target_branch: gh-pages
   on:
     branch: master
