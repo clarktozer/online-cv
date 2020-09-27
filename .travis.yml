@@ -1,0 +1,11 @@
+language: node_js
+node_js: stable
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  edge: true
+  github_token: $GITHUB_TOKEN
+  local_dir: dist
+  on:
+    branch: master
