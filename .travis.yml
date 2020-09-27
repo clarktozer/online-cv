@@ -1,16 +1,4 @@
-language: node_js
-node_js: stable
-
-cache:
-  directories:
-    - node_modules
-
 deploy:
-  provider: pages
-  skip_cleanup: true
+  provider: pages:git
   edge: true
-  github_token: $GITHUB_TOKEN
-  keep_history: true
-  target_branch: gh-pages
-  on:
-    branch: master
+  token: $GITHUB_TOKEN
