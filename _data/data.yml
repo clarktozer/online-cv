@@ -24,32 +24,18 @@ sidebar:
     stack-overflow:
     codewars:
     goodreads:
-
     languages:
-
     interests:
 
 career-profile:
     title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Software Engineer living in Melbourne. I am always looking to further my knowledge of software development by expanding my technical skills. I enjoy working on projects from the ground up and enhancing current applications with a great team of people. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Science in Computer Science
+      university: University of Canterbury, Christchurch, NZ
+      time: 2009 - 2011
+      details: 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
