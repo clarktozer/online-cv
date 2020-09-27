@@ -23,8 +23,14 @@
     .main-wrapper .upper-row {
         margin-bottom: 0;
     }
+}
 
-
+@media (max-width: 1023px) {
+    .main-wrapper .time {
+        position: static;
+        display: block;
+        margin-top: 5px;
+    }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
