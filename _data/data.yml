@@ -26,7 +26,7 @@ sidebar:
     goodreads:
     languages:
     interests:
-    cv: https://drive.google.com/file/d/1Sy8nng-axrZ-HxszMF45lq-Q06WHR93I/view?usp=sharing
+    cv: https://drive.google.com/file/d/1ZFkSBrLjcyIGwCOaDLkbBLOsJKawGXrq/view?usp=sharing
 
 career-profile:
     title: Profile
@@ -39,7 +39,13 @@ education:
       details: 
 experiences:
     - role: Senior Software Engineer
-      time: Aug 2018 - Present
+      time: Nov 2020 - Present
+      company: ReadCloud, Melbourne, AU
+      details: |
+          - Delivered new features for ReadCloud's digital resources platform. These included an enrolment portal for students to enrol in courses as well as real time annotations to eBooks.
+          - Technologies used: JavaScript (TypeScript, React, Redux, Node, TypeORM, Nest), GraphQL (Apollo, TypeGraphQL), SASS, MongoDB, GunDB, Nx, AWS, Gitlab.
+    - role: Senior Software Engineer
+      time: Aug 2018 - Nov 2020
       company: Sope Web Technologies, Melbourne, AU
       details: |
           - Rebuilt an intranet in a box solution from the ground up to provide a single source of truth for policies and procedures with compliance analytics and subscription management.
