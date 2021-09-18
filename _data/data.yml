@@ -39,7 +39,13 @@ education:
       details: 
 experiences:
     - role: Senior Software Engineer
-      time: Nov 2020 - Present
+      time: July 2021 - Present
+      company: Larki, Melbourne, AU
+      details: |
+          - Developing Larkis platform for processing and ordering of 3D point clouds.
+          - Technologies used: JavaScript (React, Redux, Node, Express, Sequelize, Bootstrap), PostgreSQL, Terraform, AWS, JIRA.
+    - role: Senior Software Engineer
+      time: Nov 2020 - July 2021
       company: ReadCloud, Melbourne, AU
       details: |
           - Delivered new features for ReadCloud's digital resources platform. These included an enrolment portal for students to enrol in courses as well as real time annotations to eBooks.
